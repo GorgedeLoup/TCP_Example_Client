@@ -1,0 +1,2504 @@
+16:03:10 IP Address: "172.168.0.116"
+
+16:03:14 Listen OK
+
+16:03:17 AcceptConnection OK
+
+16:03:17 Ready read...
+
+16:03:17 Reading head...
+
+16:03:17 Receiving plan...
+
+16:03:17 m_totalBytes: 544
+
+16:03:17 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:17 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:17 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:17 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:17 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:17 sendInfo: "From: ServerName, To: ClientName, Time: 1, 周日 八月 30 2015, 16:03:17"
+
+16:03:17 Receive plan finished.
+
+16:03:17 Write back...
+
+16:03:17 "From: ServerName, To: ClientName, Time: 1, 周日 八月 30 2015, 16:03:17"
+
+16:03:17 Send back finished.
+
+16:03:17 -------------------
+
+16:03:17 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:17 Size: 4
+
+16:03:17 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:17 Size: 5
+
+16:03:17 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:17 *******************
+
+16:03:18 AcceptConnection OK
+
+16:03:18 Ready read...
+
+16:03:18 Reading head...
+
+16:03:18 Receiving command...
+
+16:03:18 1
+
+16:03:18 Start
+
+16:03:18 CLIENT : RECEIVED COMMAND START.
+
+16:03:18 Receive command finished.
+
+16:03:18 
+*******************
+
+16:03:18 AcceptConnection OK
+
+16:03:18 Ready read...
+
+16:03:18 Reading head...
+
+16:03:18 Receiving command...
+
+16:03:18 3
+
+16:03:18 Pause
+
+16:03:18 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:18 Receive command finished.
+
+16:03:18 
+*******************
+
+16:03:19 AcceptConnection OK
+
+16:03:19 Ready read...
+
+16:03:19 Reading head...
+
+16:03:19 Receiving command...
+
+16:03:19 3
+
+16:03:19 Pause
+
+16:03:19 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:19 Receive command finished.
+
+16:03:19 
+*******************
+
+16:03:19 AcceptConnection OK
+
+16:03:19 Ready read...
+
+16:03:19 Reading head...
+
+16:03:19 Receiving command...
+
+16:03:19 2
+
+16:03:19 Stop
+
+16:03:19 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:19 Receive command finished.
+
+16:03:19 
+*******************
+
+16:03:20 AcceptConnection OK
+
+16:03:20 Ready read...
+
+16:03:20 Reading head...
+
+16:03:20 Receiving command...
+
+16:03:20 2
+
+16:03:20 Stop
+
+16:03:20 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:20 Receive command finished.
+
+16:03:20 
+*******************
+
+16:03:20 AcceptConnection OK
+
+16:03:20 Ready read...
+
+16:03:20 Reading head...
+
+16:03:20 Receiving command...
+
+16:03:20 1
+
+16:03:20 Start
+
+16:03:20 CLIENT : RECEIVED COMMAND START.
+
+16:03:20 Receive command finished.
+
+16:03:20 
+*******************
+
+16:03:21 AcceptConnection OK
+
+16:03:21 Ready read...
+
+16:03:21 Reading head...
+
+16:03:21 Receiving command...
+
+16:03:21 3
+
+16:03:21 Pause
+
+16:03:21 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:21 Receive command finished.
+
+16:03:21 
+*******************
+
+16:03:21 AcceptConnection OK
+
+16:03:21 Ready read...
+
+16:03:21 Reading head...
+
+16:03:21 Receiving command...
+
+16:03:21 3
+
+16:03:21 Pause
+
+16:03:21 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:21 Receive command finished.
+
+16:03:21 
+*******************
+
+16:03:22 AcceptConnection OK
+
+16:03:22 Ready read...
+
+16:03:22 Reading head...
+
+16:03:22 Receiving plan...
+
+16:03:22 m_totalBytes: 544
+
+16:03:22 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:22 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:22 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:22 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:22 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:22 sendInfo: "From: ServerName, To: ClientName, Time: 2, 周日 八月 30 2015, 16:03:22"
+
+16:03:22 Receive plan finished.
+
+16:03:22 Write back...
+
+16:03:22 "From: ServerName, To: ClientName, Time: 2, 周日 八月 30 2015, 16:03:22"
+
+16:03:22 Send back finished.
+
+16:03:22 -------------------
+
+16:03:22 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:22 Size: 4
+
+16:03:22 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:22 Size: 5
+
+16:03:22 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:22 *******************
+
+16:03:22 AcceptConnection OK
+
+16:03:22 Ready read...
+
+16:03:22 Reading head...
+
+16:03:22 Receiving command...
+
+16:03:22 3
+
+16:03:22 Pause
+
+16:03:22 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:22 Receive command finished.
+
+16:03:22 
+*******************
+
+16:03:23 AcceptConnection OK
+
+16:03:23 Ready read...
+
+16:03:23 Reading head...
+
+16:03:23 Receiving command...
+
+16:03:23 1
+
+16:03:23 Start
+
+16:03:23 CLIENT : RECEIVED COMMAND START.
+
+16:03:23 Receive command finished.
+
+16:03:23 
+*******************
+
+16:03:23 AcceptConnection OK
+
+16:03:23 Ready read...
+
+16:03:23 Reading head...
+
+16:03:23 Receiving command...
+
+16:03:23 3
+
+16:03:23 Pause
+
+16:03:23 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:23 Receive command finished.
+
+16:03:23 
+*******************
+
+16:03:24 AcceptConnection OK
+
+16:03:24 Ready read...
+
+16:03:24 Reading head...
+
+16:03:24 Receiving command...
+
+16:03:24 1
+
+16:03:24 Start
+
+16:03:24 CLIENT : RECEIVED COMMAND START.
+
+16:03:24 Receive command finished.
+
+16:03:24 
+*******************
+
+16:03:24 AcceptConnection OK
+
+16:03:24 Ready read...
+
+16:03:24 Reading head...
+
+16:03:24 Receiving command...
+
+16:03:24 1
+
+16:03:24 Start
+
+16:03:24 CLIENT : RECEIVED COMMAND START.
+
+16:03:24 Receive command finished.
+
+16:03:24 
+*******************
+
+16:03:25 AcceptConnection OK
+
+16:03:25 Ready read...
+
+16:03:25 Reading head...
+
+16:03:25 Receiving command...
+
+16:03:25 1
+
+16:03:25 Start
+
+16:03:25 CLIENT : RECEIVED COMMAND START.
+
+16:03:25 Receive command finished.
+
+16:03:25 
+*******************
+
+16:03:25 AcceptConnection OK
+
+16:03:25 Ready read...
+
+16:03:25 Reading head...
+
+16:03:25 Receiving command...
+
+16:03:25 1
+
+16:03:25 Start
+
+16:03:25 CLIENT : RECEIVED COMMAND START.
+
+16:03:25 Receive command finished.
+
+16:03:25 
+*******************
+
+16:03:26 AcceptConnection OK
+
+16:03:26 Ready read...
+
+16:03:26 Reading head...
+
+16:03:26 Receiving command...
+
+16:03:26 1
+
+16:03:26 Start
+
+16:03:26 CLIENT : RECEIVED COMMAND START.
+
+16:03:26 Receive command finished.
+
+16:03:26 
+*******************
+
+16:03:26 AcceptConnection OK
+
+16:03:26 Ready read...
+
+16:03:26 Reading head...
+
+16:03:26 Receiving command...
+
+16:03:26 2
+
+16:03:26 Stop
+
+16:03:26 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:26 Receive command finished.
+
+16:03:26 
+*******************
+
+16:03:27 AcceptConnection OK
+
+16:03:27 Ready read...
+
+16:03:27 Reading head...
+
+16:03:27 Receiving plan...
+
+16:03:27 m_totalBytes: 544
+
+16:03:27 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:27 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:27 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:27 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:27 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:27 sendInfo: "From: ServerName, To: ClientName, Time: 3, 周日 八月 30 2015, 16:03:27"
+
+16:03:27 Receive plan finished.
+
+16:03:27 Write back...
+
+16:03:27 "From: ServerName, To: ClientName, Time: 3, 周日 八月 30 2015, 16:03:27"
+
+16:03:27 Send back finished.
+
+16:03:27 -------------------
+
+16:03:27 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:27 Size: 4
+
+16:03:27 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:27 Size: 5
+
+16:03:27 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:27 *******************
+
+16:03:27 AcceptConnection OK
+
+16:03:27 Ready read...
+
+16:03:28 Reading head...
+
+16:03:28 Receiving command...
+
+16:03:28 3
+
+16:03:28 Pause
+
+16:03:28 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:28 Receive command finished.
+
+16:03:28 
+*******************
+
+16:03:28 AcceptConnection OK
+
+16:03:28 Ready read...
+
+16:03:28 Reading head...
+
+16:03:28 Receiving command...
+
+16:03:28 2
+
+16:03:28 Stop
+
+16:03:28 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:28 Receive command finished.
+
+16:03:28 
+*******************
+
+16:03:29 AcceptConnection OK
+
+16:03:29 Ready read...
+
+16:03:29 Reading head...
+
+16:03:29 Receiving plan...
+
+16:03:29 m_totalBytes: 544
+
+16:03:29 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:29 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:29 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:29 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:29 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:29 sendInfo: "From: ServerName, To: ClientName, Time: 4, 周日 八月 30 2015, 16:03:29"
+
+16:03:29 Receive plan finished.
+
+16:03:29 Write back...
+
+16:03:29 "From: ServerName, To: ClientName, Time: 4, 周日 八月 30 2015, 16:03:29"
+
+16:03:29 Send back finished.
+
+16:03:29 -------------------
+
+16:03:29 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:29 Size: 4
+
+16:03:29 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:29 Size: 5
+
+16:03:29 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:29 *******************
+
+16:03:29 AcceptConnection OK
+
+16:03:29 Ready read...
+
+16:03:29 Reading head...
+
+16:03:29 Receiving plan...
+
+16:03:29 m_totalBytes: 544
+
+16:03:29 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:29 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:29 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:29 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:29 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:29 sendInfo: "From: ServerName, To: ClientName, Time: 5, 周日 八月 30 2015, 16:03:29"
+
+16:03:29 Receive plan finished.
+
+16:03:29 Write back...
+
+16:03:29 "From: ServerName, To: ClientName, Time: 5, 周日 八月 30 2015, 16:03:29"
+
+16:03:29 Send back finished.
+
+16:03:29 -------------------
+
+16:03:29 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:29 Size: 4
+
+16:03:29 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:29 Size: 5
+
+16:03:29 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:29 *******************
+
+16:03:30 AcceptConnection OK
+
+16:03:30 Ready read...
+
+16:03:30 Reading head...
+
+16:03:30 Receiving command...
+
+16:03:30 2
+
+16:03:30 Stop
+
+16:03:30 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:30 Receive command finished.
+
+16:03:30 
+*******************
+
+16:03:30 AcceptConnection OK
+
+16:03:30 Ready read...
+
+16:03:30 Reading head...
+
+16:03:30 Receiving command...
+
+16:03:30 3
+
+16:03:30 Pause
+
+16:03:30 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:30 Receive command finished.
+
+16:03:30 
+*******************
+
+16:03:31 AcceptConnection OK
+
+16:03:31 Ready read...
+
+16:03:31 Reading head...
+
+16:03:31 Receiving command...
+
+16:03:31 3
+
+16:03:31 Pause
+
+16:03:31 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:31 Receive command finished.
+
+16:03:31 
+*******************
+
+16:03:31 AcceptConnection OK
+
+16:03:31 Ready read...
+
+16:03:31 Reading head...
+
+16:03:31 Receiving plan...
+
+16:03:31 m_totalBytes: 544
+
+16:03:31 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:31 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:31 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:31 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:31 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:31 sendInfo: "From: ServerName, To: ClientName, Time: 6, 周日 八月 30 2015, 16:03:31"
+
+16:03:31 Receive plan finished.
+
+16:03:31 Write back...
+
+16:03:31 "From: ServerName, To: ClientName, Time: 6, 周日 八月 30 2015, 16:03:31"
+
+16:03:31 Send back finished.
+
+16:03:31 -------------------
+
+16:03:31 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:31 Size: 4
+
+16:03:31 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:31 Size: 5
+
+16:03:31 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:31 *******************
+
+16:03:32 AcceptConnection OK
+
+16:03:32 Ready read...
+
+16:03:32 Reading head...
+
+16:03:32 Receiving command...
+
+16:03:32 2
+
+16:03:32 Stop
+
+16:03:32 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:32 Receive command finished.
+
+16:03:32 
+*******************
+
+16:03:32 AcceptConnection OK
+
+16:03:32 Ready read...
+
+16:03:32 Reading head...
+
+16:03:32 Receiving plan...
+
+16:03:32 m_totalBytes: 544
+
+16:03:32 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:32 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:32 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:32 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:32 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:32 sendInfo: "From: ServerName, To: ClientName, Time: 7, 周日 八月 30 2015, 16:03:32"
+
+16:03:32 Receive plan finished.
+
+16:03:32 Write back...
+
+16:03:32 "From: ServerName, To: ClientName, Time: 7, 周日 八月 30 2015, 16:03:32"
+
+16:03:32 Send back finished.
+
+16:03:32 -------------------
+
+16:03:32 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:32 Size: 4
+
+16:03:32 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:32 Size: 5
+
+16:03:32 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:32 *******************
+
+16:03:33 AcceptConnection OK
+
+16:03:33 Ready read...
+
+16:03:33 Reading head...
+
+16:03:33 Receiving plan...
+
+16:03:33 m_totalBytes: 544
+
+16:03:33 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:33 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:33 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:33 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:33 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:33 sendInfo: "From: ServerName, To: ClientName, Time: 8, 周日 八月 30 2015, 16:03:33"
+
+16:03:33 Receive plan finished.
+
+16:03:33 Write back...
+
+16:03:33 "From: ServerName, To: ClientName, Time: 8, 周日 八月 30 2015, 16:03:33"
+
+16:03:33 Send back finished.
+
+16:03:33 -------------------
+
+16:03:33 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:33 Size: 4
+
+16:03:33 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:33 Size: 5
+
+16:03:33 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:33 *******************
+
+16:03:33 AcceptConnection OK
+
+16:03:34 Ready read...
+
+16:03:34 Reading head...
+
+16:03:34 Receiving command...
+
+16:03:34 2
+
+16:03:34 Stop
+
+16:03:34 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:34 Receive command finished.
+
+16:03:34 
+*******************
+
+16:03:34 AcceptConnection OK
+
+16:03:34 Ready read...
+
+16:03:34 Reading head...
+
+16:03:34 Receiving plan...
+
+16:03:34 m_totalBytes: 544
+
+16:03:34 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:34 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:34 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:34 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:34 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:34 sendInfo: "From: ServerName, To: ClientName, Time: 9, 周日 八月 30 2015, 16:03:34"
+
+16:03:34 Receive plan finished.
+
+16:03:34 Write back...
+
+16:03:34 "From: ServerName, To: ClientName, Time: 9, 周日 八月 30 2015, 16:03:34"
+
+16:03:34 Send back finished.
+
+16:03:34 -------------------
+
+16:03:34 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:34 Size: 4
+
+16:03:34 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:34 Size: 5
+
+16:03:34 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:34 *******************
+
+16:03:35 AcceptConnection OK
+
+16:03:35 Ready read...
+
+16:03:35 Reading head...
+
+16:03:35 Receiving plan...
+
+16:03:35 m_totalBytes: 546
+
+16:03:35 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:35 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:35 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:35 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:35 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:35 sendInfo: "From: ServerName, To: ClientName, Time: 10, 周日 八月 30 2015, 16:03:35"
+
+16:03:35 Receive plan finished.
+
+16:03:35 Write back...
+
+16:03:35 "From: ServerName, To: ClientName, Time: 10, 周日 八月 30 2015, 16:03:35"
+
+16:03:35 Send back finished.
+
+16:03:35 -------------------
+
+16:03:35 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:35 Size: 4
+
+16:03:35 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:35 Size: 5
+
+16:03:35 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:35 *******************
+
+16:03:35 AcceptConnection OK
+
+16:03:35 Ready read...
+
+16:03:35 Reading head...
+
+16:03:35 Receiving command...
+
+16:03:35 3
+
+16:03:35 Pause
+
+16:03:35 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:35 Receive command finished.
+
+16:03:35 
+*******************
+
+16:03:36 AcceptConnection OK
+
+16:03:36 Ready read...
+
+16:03:36 Reading head...
+
+16:03:36 Receiving command...
+
+16:03:36 1
+
+16:03:36 Start
+
+16:03:36 CLIENT : RECEIVED COMMAND START.
+
+16:03:36 Receive command finished.
+
+16:03:36 
+*******************
+
+16:03:36 AcceptConnection OK
+
+16:03:36 Ready read...
+
+16:03:36 Reading head...
+
+16:03:36 Receiving command...
+
+16:03:36 3
+
+16:03:36 Pause
+
+16:03:36 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:36 Receive command finished.
+
+16:03:36 
+*******************
+
+16:03:37 AcceptConnection OK
+
+16:03:37 Ready read...
+
+16:03:37 Reading head...
+
+16:03:37 Receiving command...
+
+16:03:37 2
+
+16:03:37 Stop
+
+16:03:37 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:37 Receive command finished.
+
+16:03:37 
+*******************
+
+16:03:37 AcceptConnection OK
+
+16:03:37 Ready read...
+
+16:03:37 Reading head...
+
+16:03:37 Receiving command...
+
+16:03:37 1
+
+16:03:37 Start
+
+16:03:37 CLIENT : RECEIVED COMMAND START.
+
+16:03:37 Receive command finished.
+
+16:03:37 
+*******************
+
+16:03:38 AcceptConnection OK
+
+16:03:38 Ready read...
+
+16:03:38 Reading head...
+
+16:03:38 Receiving command...
+
+16:03:38 1
+
+16:03:38 Start
+
+16:03:38 CLIENT : RECEIVED COMMAND START.
+
+16:03:38 Receive command finished.
+
+16:03:38 
+*******************
+
+16:03:38 AcceptConnection OK
+
+16:03:38 Ready read...
+
+16:03:38 Reading head...
+
+16:03:38 Receiving command...
+
+16:03:38 3
+
+16:03:38 Pause
+
+16:03:38 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:38 Receive command finished.
+
+16:03:38 
+*******************
+
+16:03:39 AcceptConnection OK
+
+16:03:39 Ready read...
+
+16:03:39 Reading head...
+
+16:03:39 Receiving plan...
+
+16:03:39 m_totalBytes: 546
+
+16:03:39 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:39 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:39 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:39 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:39 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:39 sendInfo: "From: ServerName, To: ClientName, Time: 11, 周日 八月 30 2015, 16:03:39"
+
+16:03:39 Receive plan finished.
+
+16:03:39 Write back...
+
+16:03:39 "From: ServerName, To: ClientName, Time: 11, 周日 八月 30 2015, 16:03:39"
+
+16:03:39 Send back finished.
+
+16:03:39 -------------------
+
+16:03:39 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:39 Size: 4
+
+16:03:39 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:39 Size: 5
+
+16:03:39 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:39 *******************
+
+16:03:39 AcceptConnection OK
+
+16:03:39 Ready read...
+
+16:03:39 Reading head...
+
+16:03:39 Receiving command...
+
+16:03:39 3
+
+16:03:39 Pause
+
+16:03:39 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:39 Receive command finished.
+
+16:03:39 
+*******************
+
+16:03:40 AcceptConnection OK
+
+16:03:40 Ready read...
+
+16:03:40 Reading head...
+
+16:03:40 Receiving command...
+
+16:03:40 2
+
+16:03:40 Stop
+
+16:03:40 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:40 Receive command finished.
+
+16:03:40 
+*******************
+
+16:03:40 AcceptConnection OK
+
+16:03:40 Ready read...
+
+16:03:40 Reading head...
+
+16:03:40 Receiving command...
+
+16:03:40 1
+
+16:03:40 Start
+
+16:03:40 CLIENT : RECEIVED COMMAND START.
+
+16:03:40 Receive command finished.
+
+16:03:40 
+*******************
+
+16:03:41 AcceptConnection OK
+
+16:03:41 Ready read...
+
+16:03:41 Reading head...
+
+16:03:41 Receiving command...
+
+16:03:41 2
+
+16:03:41 Stop
+
+16:03:41 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:41 Receive command finished.
+
+16:03:41 
+*******************
+
+16:03:41 AcceptConnection OK
+
+16:03:41 Ready read...
+
+16:03:41 Reading head...
+
+16:03:41 Receiving command...
+
+16:03:42 1
+
+16:03:42 Start
+
+16:03:42 CLIENT : RECEIVED COMMAND START.
+
+16:03:42 Receive command finished.
+
+16:03:42 
+*******************
+
+16:03:42 AcceptConnection OK
+
+16:03:42 Ready read...
+
+16:03:42 Reading head...
+
+16:03:42 Receiving command...
+
+16:03:42 1
+
+16:03:42 Start
+
+16:03:42 CLIENT : RECEIVED COMMAND START.
+
+16:03:42 Receive command finished.
+
+16:03:42 
+*******************
+
+16:03:43 AcceptConnection OK
+
+16:03:43 Ready read...
+
+16:03:43 Reading head...
+
+16:03:43 Receiving command...
+
+16:03:43 2
+
+16:03:43 Stop
+
+16:03:43 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:43 Receive command finished.
+
+16:03:43 
+*******************
+
+16:03:43 AcceptConnection OK
+
+16:03:43 Ready read...
+
+16:03:43 Reading head...
+
+16:03:43 Receiving command...
+
+16:03:43 1
+
+16:03:43 Start
+
+16:03:43 CLIENT : RECEIVED COMMAND START.
+
+16:03:43 Receive command finished.
+
+16:03:43 
+*******************
+
+16:03:44 AcceptConnection OK
+
+16:03:44 Ready read...
+
+16:03:44 Reading head...
+
+16:03:44 Receiving plan...
+
+16:03:44 m_totalBytes: 546
+
+16:03:44 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:44 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:44 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:44 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:44 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:44 sendInfo: "From: ServerName, To: ClientName, Time: 12, 周日 八月 30 2015, 16:03:44"
+
+16:03:44 Receive plan finished.
+
+16:03:44 Write back...
+
+16:03:44 "From: ServerName, To: ClientName, Time: 12, 周日 八月 30 2015, 16:03:44"
+
+16:03:44 Send back finished.
+
+16:03:44 -------------------
+
+16:03:44 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:44 Size: 4
+
+16:03:44 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:44 Size: 5
+
+16:03:44 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:44 *******************
+
+16:03:44 AcceptConnection OK
+
+16:03:44 Ready read...
+
+16:03:44 Reading head...
+
+16:03:44 Receiving command...
+
+16:03:44 2
+
+16:03:44 Stop
+
+16:03:44 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:44 Receive command finished.
+
+16:03:44 
+*******************
+
+16:03:45 AcceptConnection OK
+
+16:03:45 Ready read...
+
+16:03:45 Reading head...
+
+16:03:45 Receiving plan...
+
+16:03:45 m_totalBytes: 546
+
+16:03:45 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:45 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:45 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:45 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:45 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:45 sendInfo: "From: ServerName, To: ClientName, Time: 13, 周日 八月 30 2015, 16:03:45"
+
+16:03:45 Receive plan finished.
+
+16:03:45 Write back...
+
+16:03:45 "From: ServerName, To: ClientName, Time: 13, 周日 八月 30 2015, 16:03:45"
+
+16:03:45 Send back finished.
+
+16:03:45 -------------------
+
+16:03:45 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:45 Size: 4
+
+16:03:45 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:45 Size: 5
+
+16:03:45 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:45 *******************
+
+16:03:45 AcceptConnection OK
+
+16:03:45 Ready read...
+
+16:03:45 Reading head...
+
+16:03:45 Receiving command...
+
+16:03:45 2
+
+16:03:45 Stop
+
+16:03:45 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:45 Receive command finished.
+
+16:03:45 
+*******************
+
+16:03:46 AcceptConnection OK
+
+16:03:46 Ready read...
+
+16:03:46 Reading head...
+
+16:03:46 Receiving command...
+
+16:03:46 3
+
+16:03:46 Pause
+
+16:03:46 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:46 Receive command finished.
+
+16:03:46 
+*******************
+
+16:03:46 AcceptConnection OK
+
+16:03:46 Ready read...
+
+16:03:46 Reading head...
+
+16:03:46 Receiving plan...
+
+16:03:46 m_totalBytes: 546
+
+16:03:46 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:46 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:46 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:46 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:46 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:46 sendInfo: "From: ServerName, To: ClientName, Time: 14, 周日 八月 30 2015, 16:03:46"
+
+16:03:46 Receive plan finished.
+
+16:03:46 Write back...
+
+16:03:46 "From: ServerName, To: ClientName, Time: 14, 周日 八月 30 2015, 16:03:46"
+
+16:03:46 Send back finished.
+
+16:03:46 -------------------
+
+16:03:46 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:46 Size: 4
+
+16:03:46 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:46 Size: 5
+
+16:03:46 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:46 *******************
+
+16:03:47 AcceptConnection OK
+
+16:03:47 Ready read...
+
+16:03:47 Reading head...
+
+16:03:47 Receiving command...
+
+16:03:47 2
+
+16:03:47 Stop
+
+16:03:47 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:47 Receive command finished.
+
+16:03:47 
+*******************
+
+16:03:47 AcceptConnection OK
+
+16:03:47 Ready read...
+
+16:03:47 Reading head...
+
+16:03:47 Receiving plan...
+
+16:03:47 m_totalBytes: 546
+
+16:03:47 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:47 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:47 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:47 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:47 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:47 sendInfo: "From: ServerName, To: ClientName, Time: 15, 周日 八月 30 2015, 16:03:47"
+
+16:03:47 Receive plan finished.
+
+16:03:47 Write back...
+
+16:03:47 "From: ServerName, To: ClientName, Time: 15, 周日 八月 30 2015, 16:03:47"
+
+16:03:47 Send back finished.
+
+16:03:47 -------------------
+
+16:03:47 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:47 Size: 4
+
+16:03:47 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:47 Size: 5
+
+16:03:47 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:47 *******************
+
+16:03:48 AcceptConnection OK
+
+16:03:48 Ready read...
+
+16:03:48 Reading head...
+
+16:03:48 Receiving command...
+
+16:03:48 2
+
+16:03:48 Stop
+
+16:03:48 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:48 Receive command finished.
+
+16:03:48 
+*******************
+
+16:03:48 AcceptConnection OK
+
+16:03:48 Ready read...
+
+16:03:48 Reading head...
+
+16:03:48 Receiving command...
+
+16:03:48 3
+
+16:03:48 Pause
+
+16:03:48 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:48 Receive command finished.
+
+16:03:48 
+*******************
+
+16:03:49 AcceptConnection OK
+
+16:03:49 Ready read...
+
+16:03:49 Reading head...
+
+16:03:49 Receiving command...
+
+16:03:49 1
+
+16:03:49 Start
+
+16:03:49 CLIENT : RECEIVED COMMAND START.
+
+16:03:49 Receive command finished.
+
+16:03:49 
+*******************
+
+16:03:49 AcceptConnection OK
+
+16:03:49 Ready read...
+
+16:03:49 Reading head...
+
+16:03:49 Receiving plan...
+
+16:03:49 m_totalBytes: 546
+
+16:03:49 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:49 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:49 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:49 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:49 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:49 sendInfo: "From: ServerName, To: ClientName, Time: 16, 周日 八月 30 2015, 16:03:49"
+
+16:03:49 Receive plan finished.
+
+16:03:49 Write back...
+
+16:03:49 "From: ServerName, To: ClientName, Time: 16, 周日 八月 30 2015, 16:03:49"
+
+16:03:49 Send back finished.
+
+16:03:49 -------------------
+
+16:03:49 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:49 Size: 4
+
+16:03:49 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:49 Size: 5
+
+16:03:49 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:49 *******************
+
+16:03:50 AcceptConnection OK
+
+16:03:50 Ready read...
+
+16:03:50 Reading head...
+
+16:03:50 Receiving plan...
+
+16:03:50 m_totalBytes: 546
+
+16:03:50 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:50 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:50 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:50 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:50 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:50 sendInfo: "From: ServerName, To: ClientName, Time: 17, 周日 八月 30 2015, 16:03:50"
+
+16:03:50 Receive plan finished.
+
+16:03:50 Write back...
+
+16:03:50 "From: ServerName, To: ClientName, Time: 17, 周日 八月 30 2015, 16:03:50"
+
+16:03:50 Send back finished.
+
+16:03:50 -------------------
+
+16:03:50 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:50 Size: 4
+
+16:03:50 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:50 Size: 5
+
+16:03:50 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:50 *******************
+
+16:03:51 AcceptConnection OK
+
+16:03:51 Ready read...
+
+16:03:51 Reading head...
+
+16:03:51 Receiving command...
+
+16:03:51 1
+
+16:03:51 Start
+
+16:03:51 CLIENT : RECEIVED COMMAND START.
+
+16:03:51 Receive command finished.
+
+16:03:51 
+*******************
+
+16:03:51 AcceptConnection OK
+
+16:03:51 Ready read...
+
+16:03:51 Reading head...
+
+16:03:51 Receiving command...
+
+16:03:51 2
+
+16:03:51 Stop
+
+16:03:51 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:51 Receive command finished.
+
+16:03:51 
+*******************
+
+16:03:52 AcceptConnection OK
+
+16:03:52 Ready read...
+
+16:03:52 Reading head...
+
+16:03:52 Receiving command...
+
+16:03:52 3
+
+16:03:52 Pause
+
+16:03:52 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:52 Receive command finished.
+
+16:03:52 
+*******************
+
+16:03:52 AcceptConnection OK
+
+16:03:52 Ready read...
+
+16:03:52 Reading head...
+
+16:03:52 Receiving command...
+
+16:03:52 3
+
+16:03:52 Pause
+
+16:03:52 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:52 Receive command finished.
+
+16:03:52 
+*******************
+
+16:03:53 AcceptConnection OK
+
+16:03:53 Ready read...
+
+16:03:53 Reading head...
+
+16:03:53 Receiving command...
+
+16:03:53 3
+
+16:03:53 Pause
+
+16:03:53 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:53 Receive command finished.
+
+16:03:53 
+*******************
+
+16:03:53 AcceptConnection OK
+
+16:03:53 Ready read...
+
+16:03:53 Reading head...
+
+16:03:53 Receiving plan...
+
+16:03:53 m_totalBytes: 546
+
+16:03:53 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:53 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:53 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:53 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:53 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:53 sendInfo: "From: ServerName, To: ClientName, Time: 18, 周日 八月 30 2015, 16:03:53"
+
+16:03:53 Receive plan finished.
+
+16:03:53 Write back...
+
+16:03:53 "From: ServerName, To: ClientName, Time: 18, 周日 八月 30 2015, 16:03:53"
+
+16:03:53 Send back finished.
+
+16:03:53 -------------------
+
+16:03:53 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:53 Size: 4
+
+16:03:53 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:53 Size: 5
+
+16:03:53 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:53 *******************
+
+16:03:54 AcceptConnection OK
+
+16:03:54 Ready read...
+
+16:03:54 Reading head...
+
+16:03:54 Receiving command...
+
+16:03:54 1
+
+16:03:54 Start
+
+16:03:54 CLIENT : RECEIVED COMMAND START.
+
+16:03:54 Receive command finished.
+
+16:03:54 
+*******************
+
+16:03:54 AcceptConnection OK
+
+16:03:54 Ready read...
+
+16:03:54 Reading head...
+
+16:03:54 Receiving plan...
+
+16:03:54 m_totalBytes: 546
+
+16:03:54 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:54 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:54 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:54 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:54 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:54 sendInfo: "From: ServerName, To: ClientName, Time: 19, 周日 八月 30 2015, 16:03:54"
+
+16:03:54 Receive plan finished.
+
+16:03:54 Write back...
+
+16:03:54 "From: ServerName, To: ClientName, Time: 19, 周日 八月 30 2015, 16:03:54"
+
+16:03:54 Send back finished.
+
+16:03:54 -------------------
+
+16:03:54 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:54 Size: 4
+
+16:03:54 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:54 Size: 5
+
+16:03:54 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:54 *******************
+
+16:03:55 AcceptConnection OK
+
+16:03:55 Ready read...
+
+16:03:55 Reading head...
+
+16:03:55 Receiving command...
+
+16:03:55 2
+
+16:03:55 Stop
+
+16:03:55 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:55 Receive command finished.
+
+16:03:55 
+*******************
+
+16:03:55 AcceptConnection OK
+
+16:03:55 Ready read...
+
+16:03:55 Reading head...
+
+16:03:55 Receiving command...
+
+16:03:55 3
+
+16:03:55 Pause
+
+16:03:55 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:55 Receive command finished.
+
+16:03:55 
+*******************
+
+16:03:56 AcceptConnection OK
+
+16:03:56 Ready read...
+
+16:03:56 Reading head...
+
+16:03:56 Receiving command...
+
+16:03:56 2
+
+16:03:56 Stop
+
+16:03:56 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:56 Receive command finished.
+
+16:03:56 
+*******************
+
+16:03:56 AcceptConnection OK
+
+16:03:56 Ready read...
+
+16:03:56 Reading head...
+
+16:03:56 Receiving command...
+
+16:03:56 3
+
+16:03:56 Pause
+
+16:03:56 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:03:56 Receive command finished.
+
+16:03:56 
+*******************
+
+16:03:57 AcceptConnection OK
+
+16:03:57 Ready read...
+
+16:03:57 Reading head...
+
+16:03:57 Receiving command...
+
+16:03:57 1
+
+16:03:57 Start
+
+16:03:57 CLIENT : RECEIVED COMMAND START.
+
+16:03:57 Receive command finished.
+
+16:03:57 
+*******************
+
+16:03:57 AcceptConnection OK
+
+16:03:57 Ready read...
+
+16:03:57 Reading head...
+
+16:03:57 Receiving command...
+
+16:03:57 2
+
+16:03:57 Stop
+
+16:03:57 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:57 Receive command finished.
+
+16:03:57 
+*******************
+
+16:03:58 AcceptConnection OK
+
+16:03:58 Ready read...
+
+16:03:58 Reading head...
+
+16:03:58 Receiving plan...
+
+16:03:58 m_totalBytes: 546
+
+16:03:58 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:58 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:58 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:58 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:58 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:58 sendInfo: "From: ServerName, To: ClientName, Time: 20, 周日 八月 30 2015, 16:03:58"
+
+16:03:58 Receive plan finished.
+
+16:03:58 Write back...
+
+16:03:58 "From: ServerName, To: ClientName, Time: 20, 周日 八月 30 2015, 16:03:58"
+
+16:03:58 Send back finished.
+
+16:03:58 -------------------
+
+16:03:58 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:58 Size: 4
+
+16:03:58 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:58 Size: 5
+
+16:03:58 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:58 *******************
+
+16:03:59 AcceptConnection OK
+
+16:03:59 Ready read...
+
+16:03:59 Reading head...
+
+16:03:59 Receiving command...
+
+16:03:59 2
+
+16:03:59 Stop
+
+16:03:59 CLIENT : RECEIVED COMMAND STOP.
+
+16:03:59 Receive command finished.
+
+16:03:59 
+*******************
+
+16:03:59 AcceptConnection OK
+
+16:03:59 Ready read...
+
+16:03:59 Reading head...
+
+16:03:59 Receiving plan...
+
+16:03:59 m_totalBytes: 546
+
+16:03:59 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:59 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:59 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:59 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:59 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:03:59 sendInfo: "From: ServerName, To: ClientName, Time: 21, 周日 八月 30 2015, 16:03:59"
+
+16:03:59 Receive plan finished.
+
+16:03:59 Write back...
+
+16:03:59 "From: ServerName, To: ClientName, Time: 21, 周日 八月 30 2015, 16:03:59"
+
+16:03:59 Send back finished.
+
+16:03:59 -------------------
+
+16:03:59 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:03:59 Size: 4
+
+16:03:59 45 : First spot: ( 11 , 12 , 13 )
+
+16:03:59 Size: 5
+
+16:03:59 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:03:59 *******************
+
+16:04:00 AcceptConnection OK
+
+16:04:00 Ready read...
+
+16:04:00 Reading head...
+
+16:04:00 Receiving command...
+
+16:04:00 1
+
+16:04:00 Start
+
+16:04:00 CLIENT : RECEIVED COMMAND START.
+
+16:04:00 Receive command finished.
+
+16:04:00 
+*******************
+
+16:04:00 AcceptConnection OK
+
+16:04:00 Ready read...
+
+16:04:00 Reading head...
+
+16:04:00 Receiving command...
+
+16:04:00 1
+
+16:04:00 Start
+
+16:04:00 CLIENT : RECEIVED COMMAND START.
+
+16:04:00 Receive command finished.
+
+16:04:00 
+*******************
+
+16:04:01 AcceptConnection OK
+
+16:04:01 Ready read...
+
+16:04:01 Reading head...
+
+16:04:01 Receiving command...
+
+16:04:01 2
+
+16:04:01 Stop
+
+16:04:01 CLIENT : RECEIVED COMMAND STOP.
+
+16:04:01 Receive command finished.
+
+16:04:01 
+*******************
+
+16:04:01 AcceptConnection OK
+
+16:04:01 Ready read...
+
+16:04:01 Reading head...
+
+16:04:01 Receiving command...
+
+16:04:01 1
+
+16:04:01 Start
+
+16:04:01 CLIENT : RECEIVED COMMAND START.
+
+16:04:01 Receive command finished.
+
+16:04:01 
+*******************
+
+16:04:02 AcceptConnection OK
+
+16:04:02 Ready read...
+
+16:04:02 Reading head...
+
+16:04:02 Receiving plan...
+
+16:04:02 m_totalBytes: 546
+
+16:04:02 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:04:02 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:04:02 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:04:02 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:04:02 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:04:02 sendInfo: "From: ServerName, To: ClientName, Time: 22, 周日 八月 30 2015, 16:04:02"
+
+16:04:02 Receive plan finished.
+
+16:04:02 Write back...
+
+16:04:02 "From: ServerName, To: ClientName, Time: 22, 周日 八月 30 2015, 16:04:02"
+
+16:04:02 Send back finished.
+
+16:04:02 -------------------
+
+16:04:02 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:04:02 Size: 4
+
+16:04:02 45 : First spot: ( 11 , 12 , 13 )
+
+16:04:02 Size: 5
+
+16:04:02 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:04:02 *******************
+
+16:04:02 AcceptConnection OK
+
+16:04:02 Ready read...
+
+16:04:02 Reading head...
+
+16:04:02 Receiving plan...
+
+16:04:02 m_totalBytes: 546
+
+16:04:02 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:04:02 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:04:02 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:04:02 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:04:02 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:04:02 sendInfo: "From: ServerName, To: ClientName, Time: 23, 周日 八月 30 2015, 16:04:02"
+
+16:04:02 Receive plan finished.
+
+16:04:02 Write back...
+
+16:04:02 "From: ServerName, To: ClientName, Time: 23, 周日 八月 30 2015, 16:04:02"
+
+16:04:02 Send back finished.
+
+16:04:02 -------------------
+
+16:04:02 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:04:02 Size: 4
+
+16:04:02 45 : First spot: ( 11 , 12 , 13 )
+
+16:04:02 Size: 5
+
+16:04:02 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:04:02 *******************
+
+16:04:03 AcceptConnection OK
+
+16:04:03 Ready read...
+
+16:04:03 Reading head...
+
+16:04:03 Receiving command...
+
+16:04:03 2
+
+16:04:03 Stop
+
+16:04:03 CLIENT : RECEIVED COMMAND STOP.
+
+16:04:03 Receive command finished.
+
+16:04:03 
+*******************
+
+16:04:03 AcceptConnection OK
+
+16:04:03 Ready read...
+
+16:04:03 Reading head...
+
+16:04:03 Receiving command...
+
+16:04:03 2
+
+16:04:03 Stop
+
+16:04:03 CLIENT : RECEIVED COMMAND STOP.
+
+16:04:03 Receive command finished.
+
+16:04:03 
+*******************
+
+16:04:04 AcceptConnection OK
+
+16:04:04 Ready read...
+
+16:04:04 Reading head...
+
+16:04:04 Receiving command...
+
+16:04:04 1
+
+16:04:04 Start
+
+16:04:04 CLIENT : RECEIVED COMMAND START.
+
+16:04:04 Receive command finished.
+
+16:04:04 
+*******************
+
+16:04:04 AcceptConnection OK
+
+16:04:04 Ready read...
+
+16:04:05 Reading head...
+
+16:04:05 Receiving command...
+
+16:04:05 3
+
+16:04:05 Pause
+
+16:04:05 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:04:05 Receive command finished.
+
+16:04:05 
+*******************
+
+16:04:05 AcceptConnection OK
+
+16:04:05 Ready read...
+
+16:04:05 Reading head...
+
+16:04:05 Receiving command...
+
+16:04:05 1
+
+16:04:05 Start
+
+16:04:05 CLIENT : RECEIVED COMMAND START.
+
+16:04:05 Receive command finished.
+
+16:04:05 
+*******************
+
+16:04:06 AcceptConnection OK
+
+16:04:06 Ready read...
+
+16:04:06 Reading head...
+
+16:04:06 Receiving command...
+
+16:04:06 3
+
+16:04:06 Pause
+
+16:04:06 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:04:06 Receive command finished.
+
+16:04:06 
+*******************
+
+16:04:06 AcceptConnection OK
+
+16:04:06 Ready read...
+
+16:04:06 Reading head...
+
+16:04:06 Receiving command...
+
+16:04:06 3
+
+16:04:06 Pause
+
+16:04:06 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:04:06 Receive command finished.
+
+16:04:06 
+*******************
+
+16:04:07 AcceptConnection OK
+
+16:04:07 Ready read...
+
+16:04:07 Reading head...
+
+16:04:07 Receiving plan...
+
+16:04:07 m_totalBytes: 546
+
+16:04:07 m_hashX: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:04:07 m_hashY: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:04:07 m_hashZ: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:04:07 m_spotOrder: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:04:07 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+16:04:07 sendInfo: "From: ServerName, To: ClientName, Time: 24, 周日 八月 30 2015, 16:04:07"
+
+16:04:07 Receive plan finished.
+
+16:04:07 Write back...
+
+16:04:07 "From: ServerName, To: ClientName, Time: 24, 周日 八月 30 2015, 16:04:07"
+
+16:04:07 Send back finished.
+
+16:04:07 -------------------
+
+16:04:07 90 : First spot: ( 1.1 , 1.2 , 1.3 )
+
+16:04:07 Size: 4
+
+16:04:07 45 : First spot: ( 11 , 12 , 13 )
+
+16:04:07 Size: 5
+
+16:04:07 CLIENT : RECEIVE TREATMENT PLAN SUCCEEDED.
+
+16:04:07 *******************
+
+16:04:07 AcceptConnection OK
+
+16:04:07 Ready read...
+
+16:04:07 Reading head...
+
+16:04:07 Receiving command...
+
+16:04:07 2
+
+16:04:07 Stop
+
+16:04:07 CLIENT : RECEIVED COMMAND STOP.
+
+16:04:07 Receive command finished.
+
+16:04:07 
+*******************
+
+16:04:08 AcceptConnection OK
+
+16:04:08 Ready read...
+
+16:04:08 Reading head...
+
+16:04:08 Receiving command...
+
+16:04:08 3
+
+16:04:08 Pause
+
+16:04:08 CLIENT : RECEIVED COMMAND PAUSE.
+
+16:04:08 Receive command finished.
+
+16:04:08 
+*******************
+
+16:04:08 AcceptConnection OK
+
+16:04:08 Ready read...
+
+16:04:08 Reading head...
+
+16:04:08 Receiving command...
+
+16:04:08 2
+
+16:04:08 Stop
+
+16:04:08 CLIENT : RECEIVED COMMAND STOP.
+
+16:04:08 Receive command finished.
+
+16:04:08 
+*******************
+
+16:04:09 AcceptConnection OK
+
+16:04:09 Ready read...
+
+16:04:09 Reading head...
+
+16:04:09 Receiving command...
+
+16:04:09 2
+
+16:04:09 Stop
+
+16:04:09 CLIENT : RECEIVED COMMAND STOP.
+
+16:04:09 Receive command finished.
+
+16:04:09 
+*******************
+
+16:04:09 AcceptConnection OK
+
+16:04:09 Ready read...
+
+16:04:09 Reading head...
+
+16:04:09 Receiving command...
+
+16:04:09 1
+
+16:04:09 Start
+
+16:04:09 CLIENT : RECEIVED COMMAND START.
+
+16:04:09 Receive command finished.
+
+16:04:09 
+*******************
+
+16:04:10 AcceptConnection OK
+
+16:04:10 Ready read...
+
+16:04:10 Reading head...
+
+16:04:10 Receiving command...
+
+16:04:10 2
+
+16:04:10 Stop
+
+16:04:10 CLIENT : RECEIVED COMMAND STOP.
+
+16:04:10 Receive command finished.
+
+16:04:10 
+*******************
+
